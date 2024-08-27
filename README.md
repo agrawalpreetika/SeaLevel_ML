@@ -6,3 +6,11 @@ This repository contains the code and data for predicting global mean sea level 
 **dealwithCSV/:** Includes scripts and code used to handle and preprocess the CSV files.\
 **dealwithNC/:** Contains scripts used to process and convert .nc files into CSV format.\
 **processed_csv/:** Includes the processed datasets after all preprocessing steps have been applied, ready for further data analysis and model training.
+
+## Models Trained
+- Linear Regression
+- Decisison Tree regressor
+- Random Forest Regressor
+- Support Vector Regressor
+- Gradient Boosting
+- XG Boost Regressor
